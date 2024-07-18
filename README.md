@@ -12,6 +12,6 @@
 - so 不注意可能会输哦，嘿嘿
 
 ### 实现效果
- <img src="https://bu.dusays.com/2024/07/18/66990c7bbca94.png" alt="" height="300px" width="200px">
+ <img src="https://bu.dusays.com/2024/07/18/66990c7bbca94.png" alt="" height="430px" width="300px">
  
-  <img src="https://bu.dusays.com/2024/07/18/66990c3966f41.png" alt="" height="300px" width="400px">
+  <img src="https://bu.dusays.com/2024/07/18/66990c3966f41.png" alt="" height="430px" width="500px">

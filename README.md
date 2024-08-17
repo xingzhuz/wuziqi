@@ -2,7 +2,7 @@
 
 五子棋的实现，有对 AI 的算法
 
-### 简介
+## 简介
 
 - 这是基于Visual Studio 2022写的小游戏，图形化界面采用的 Easyx
 - 存储功能而言是只用了文件存储（当时不会数据库，唉）
@@ -13,8 +13,10 @@
 
 > 注意：还有些许Bug，大一下转专业自学后期末完成的一个小游戏，毫无算法可言，全是暴力
 
-### 实现效果
- <img src="https://bu.dusays.com/2024/08/17/66c0534a613a6.png" alt="" height="430px" width="300px">
- 
-  <img src="https://bu.dusays.com/2024/07/18/66990c3966f41.png" alt="" height="430px" width="500px">
+## 实现效果
+### 主界面
+  <img src="https://bu.dusays.com/2024/08/17/66c05504dc221.png" width="320px" height="450px"> </img>
+  
+### 下棋界面
+  <img src="https://bu.dusays.com/2024/07/18/66990c3966f41.png" width="500px" height="430px"> </img>
 

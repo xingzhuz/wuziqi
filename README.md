@@ -14,7 +14,7 @@
 > 注意：还有些许Bug，大一下转专业自学后期末完成的一个小游戏，毫无算法可言，全是暴力
 
 ### 实现效果
- <img src="https://bu.dusays.com/2024/07/18/66990c7bbca94.png" alt="">
+ <img src="https://bu.dusays.com/2024/07/18/66990c7bbca94.png" alt="" height="430px" width="300px">
  
   <img src="https://bu.dusays.com/2024/07/18/66990c3966f41.png" alt="" height="430px" width="500px">
 

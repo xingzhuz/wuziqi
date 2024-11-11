@@ -1,13 +1,14 @@
 ﻿  AI.cpp
   load_count.cpp
-D:\study\Grade1down_Files\C语言期末-202210111218-张信富\2、五子棋源代码、文档、及ppt-202210111218-张信富\五子棋代码\五子棋1\AI.cpp(281,12): warning C4101: “d”: 未引用的局部变量
+C:\xingzhuz-git\wuziqi\五子棋1\AI.cpp(281,12): warning C4101: “d”: 未引用的局部变量
   load_record.cpp
-D:\study\Grade1down_Files\C语言期末-202210111218-张信富\2、五子棋源代码、文档、及ppt-202210111218-张信富\五子棋代码\五子棋1\load_record.cpp(56,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\xingzhuz-git\wuziqi\五子棋1\load_record.cpp(56,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
   main.cpp
-D:\study\Grade1down_Files\C语言期末-202210111218-张信富\2、五子棋源代码、文档、及ppt-202210111218-张信富\五子棋代码\五子棋1\main.cpp(10,6): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\xingzhuz-git\wuziqi\五子棋1\main.cpp(10,6): warning C4326: “main”的返回类型应为“int”而非“void”
   player.cpp
   save_count.cpp
   save_record.cpp
-D:\study\Grade1down_Files\C语言期末-202210111218-张信富\2、五子棋源代码、文档、及ppt-202210111218-张信富\五子棋代码\五子棋1\save_record.cpp(25,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\xingzhuz-git\wuziqi\五子棋1\save_record.cpp(25,5): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
   正在生成代码...
-  五子棋1.vcxproj -> D:\study\Grade1down_Files\C语言期末-202210111218-张信富\2、五子棋源代码、文档、及ppt-202210111218-张信富\五子棋代码\x64\Debug\五子棋1.exe
+  LINK : 没有找到 C:\xingzhuz-git\wuziqi\x64\Debug\五子棋1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  五子棋1.vcxproj -> C:\xingzhuz-git\wuziqi\x64\Debug\五子棋1.exe
